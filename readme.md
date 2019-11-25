@@ -9,3 +9,9 @@ This one is WIP
 ![Controller botton](./resources/controller_bottom.jpg)
 
 ![PCB](./resources/pcb.jpg)
+
+![PCB assembled](./resources/pcb_assembled.jpg)
+
+![Case assembly](./resources/case_assembly.jpg)
+
+![Final view](./resources/final.jpg)
