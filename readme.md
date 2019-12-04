@@ -15,3 +15,5 @@ This one is WIP
 ![Case assembly](./resources/case_assembly.jpg)
 
 ![Final view](./resources/final.jpg)
+
+![Final view scaled](./resources/final_scale.jpg)
